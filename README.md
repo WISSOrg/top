@@ -10,7 +10,7 @@ pandoc -o index.html --template src/template.html src/content.md
 
 ## Deploy
 
-Committed changes to `index.html` and `images` will be automatically deployed via GitHub Pages.
+Committed changes to `docs` will be automatically deployed via GitHub Pages.
 
 ## TODOs
 
