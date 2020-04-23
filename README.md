@@ -5,7 +5,7 @@ WISS top page (https://www.wiss.org/)
 ## Build
 
 ```
-pandoc -o index.html --template src/template.html src/content.md
+pandoc -o docs/index.html --template src/template.html src/content.md
 ```
 
 ## Deploy
