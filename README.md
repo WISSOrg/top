@@ -2,18 +2,16 @@
 
 WISS top page (https://www.wiss.org/)
 
+## Prerequisites
+
+- pandoc (`brew install pandoc`)
+
 ## Build
 
 ```
-pandoc -o docs/index.html --template src/template.html src/content.md
+sh build.sh
 ```
 
 ## Deploy
 
-Committed changes to `docs` will be automatically deployed via GitHub Pages.
-
-## TODOs
-
-- Better template
-- Better content management
-- Automatic build and deployment
+When new changes are pushed to the master branch, GitHub Actions will automatically build and deploy the page to GitHub Pages.
