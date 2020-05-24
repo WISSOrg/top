@@ -21,3 +21,12 @@ ISS研究会では1993年より毎年冬にワークショップ（WISS）を開
 - WISS 2017は八ヶ岳（山梨県）にて2017/12/6-8に開催されました。
   - [WISS 2017](https://www.wiss.org/WISS2017/)
   - [WISS 2017 ウェブ予稿集](https://www.wiss.org/WISS2017Proceedings/)
+- WISS 2016は長浜（滋賀県）にて2016/12/14-16に開催されました。
+  - [WISS 2016](https://www.wiss.org/WISS2016/)
+  - [WISS 2016 プロシーディングス](https://www.wiss.org/WISS2016Proceedings/)
+- WISS 2015は別府湾ロイヤルホテル（大分県速見郡日出町）にて2015/12/2-4に開催されました。
+  - [WISS 2015](https://www.wiss.org/WISS2015/)
+  - [WISS 2015 プロシーディングス](https://www.wiss.org/WISS2015Proceedings/)
+- WISS 2014は浜名湖ロイヤルホテル（静岡県浜松市）にて2014/11/26-28に開催されました。
+  - [WISS 2014](https://www.wiss.org/WISS2014/)
+  - [WISS 2014 プロシーディングス](https://www.wiss.org/WISS2014Proceedings/)
