@@ -5,12 +5,14 @@
 ISS研究会では1993年より毎年冬にワークショップ（WISS）を開催しています．
 
 #### News
-
-- WISS 2021は2021年12月8日（水）-10日（金）に浜松(静岡)で開催予定です。
-  - [WISS 2021](https://www.wiss.org/WISS2021/)
+- WISS 2022は2022年12月14日（水）-16日（金）に開催予定です。
+  - [WISS 2022](https://www.wiss.org/WISS2022/)
 
 #### Archives
-
+- WISS 2021は2021年12月8日（水）-10日（金）に浜松(静岡)で開催されました。
+  - [WISS 2021](https://www.wiss.org/WISS2021/)
+  - [WISS 2021 ウェブ予稿集](https://www.wiss.org/WISS2021Proceedings/)
+  - [WISS 2021 電子予稿集](https://www.wiss.org/WISS2021/downloads/proceedings.pdf)  
 - WISS 2020はオンラインにて2020/12/16-18に開催されました。
   - [WISS 2020](https://www.wiss.org/WISS2020/)
   - [WISS 2020 ウェブ予稿集](https://www.wiss.org/WISS2020Proceedings/)
