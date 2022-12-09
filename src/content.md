@@ -7,6 +7,8 @@ ISS研究会では1993年より毎年冬にワークショップ（WISS）を開
 #### News
 - WISS 2022は2022年12月14日（水）-16日（金）に開催予定です。
   - [WISS 2022](https://www.wiss.org/WISS2022/)
+  - [WISS 2022 ウェブ予稿集](https://www.wiss.org/WISS2022Proceedings/)
+  - [WISS 2022 電子予稿集](https://www.wiss.org/WISS2022/downloads/proceedings.pdf)  
 
 #### Archives
 - WISS 2021は2021年12月8日（水）-10日（金）に浜松(静岡)で開催されました。
