@@ -7,7 +7,7 @@ ISS研究会では1993年より毎年冬にワークショップ（WISS）を開
 #### News
 - WISS 2023は2023年11月29日（水）-12月01日（金）に開催予定です。
   - [WISS 2023](https://www.wiss.org/WISS2023/)
-  - [WISS 2023 ウェブ予稿集](https://www.wiss.org/WISS2022Proceedings/)
+  - [WISS 2023 ウェブ予稿集](https://www.wiss.org/WISS2023Proceedings/)
   - [WISS 2023 電子予稿集](https://www.wiss.org/WISS2023/downloads/proceedings.pdf)
 
 #### Archives
