@@ -5,7 +5,7 @@
 ISS研究会では1993年より毎年冬にワークショップ（WISS）を開催しています．
 
 #### News
-- WISS 2024は2024年XX月XX日（X）-XX月XX日（金）に開催予定です。
+- WISS 2024は2024年XX月XX日（X）-XX月XX日（X）に開催予定です。
   - [WISS 2024](https://www.wiss.org/WISS2024/)
 
 #### Archives
