@@ -5,10 +5,13 @@
 ISS研究会では1993年より毎年冬にワークショップ（WISS）を開催しています．
 
 #### News
-- WISS 2024は2024年12月11日（水）-12月13日（金）に苗場（新潟）で開催予定です。
-  - [WISS 2024](https://www.wiss.org/WISS2024/)
+- WISS 2025は2025年XX月XX日（XX）-XX月XX日（XX）にXX（XX）で開催予定です。
 
 #### Archives
+- WISS 2024は2024年12月11日（水）-12月13日（金）に苗場（新潟）で開催されました。
+  - [WISS 2024](https://www.wiss.org/WISS2024/)
+  - [WISS 2024 ウェブ予稿集](https://www.wiss.org/WISS2024Proceedings/)
+  - [WISS 2024 電子予稿集](https://www.wiss.org/WISS2024/downloads/proceedings.pdf)
 - WISS 2023は2023年11月29日（水）-12月01日（金）に八ヶ岳(山梨)で開催されました。
   - [WISS 2023](https://www.wiss.org/WISS2023/)
   - [WISS 2023 ウェブ予稿集](https://www.wiss.org/WISS2023Proceedings/)
