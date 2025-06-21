@@ -16,4 +16,4 @@ sh build.sh
 
 ## Deploy
 
-When new changes are pushed to the master branch, GitHub Actions will automatically build and deploy the page to GitHub Pages.
+When new changes are pushed to the **main** branch, GitHub Actions builds the site in a container with pandoc and deploys directly to GitHub Pages.
