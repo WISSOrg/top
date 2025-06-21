@@ -46,5 +46,90 @@ ISS研究会では1993年より毎年冬にワークショップ（WISS）を開
   - [WISS 2015](https://www.wiss.org/WISS2015/)
   - [WISS 2015 プロシーディングス](https://www.wiss.org/WISS2015Proceedings/)
 - WISS 2014は浜名湖ロイヤルホテル（静岡県浜松市）にて2014/11/26-28に開催されました。
-  - [WISS 2014](https://www.wiss.org/WISS2014/)
+- [WISS 2014](https://www.wiss.org/WISS2014/)
   - [WISS 2014 プロシーディングス](https://www.wiss.org/WISS2014Proceedings/)
+
+- WISS 2013はザ クラウンパレス新阪急高知で12/4-6に開催しました。
+  - [WISS 2013](http://www.wiss.org/WISS2013/)
+  - [プロシーディング](http://www.wiss.org/WISS2013Proceedings/)
+- ISS 20周年記念イベント WISS Tokyo は東京大学で 9/10 に開催しました。
+  - [WISS Tokyo](http://www.wiss.org/wisstokyo/)
+- WISS 2012は古牧温泉 青森屋で12/6-8に開催しました。
+  - [WISS 2012](http://www.wiss.org/WISS2012/)
+  - [プロシーディング](http://www.wiss.org/WISS2012Proceedings/)
+- WISS 2011は天橋立・宮津ロイヤルホテルで開催しました。
+  - [WISS 2011](http://www.wiss.org/WISS2011/)
+  - [プロシーディング](http://www.wiss.org/WISS2011Proceedings/)
+- WISS 2010は裏磐梯ロイヤルホテルで開催しました。
+  - [WISS 2010](http://www.wiss.org/WISS2010/)
+  - [プロシーディング](http://www.wiss.org/WISS2010Proceedings/)
+- WISS 2009は熱海温泉・ホテル大野屋で開催しました。
+  - [WISS 2009](http://www.wiss.org/WISS2009/)
+  - [プロシーディング](http://www.wiss.org/WISS2009Proceedings/)
+- WISS 2008は神戸ポートピアホテルで開催しました。
+  - [WISS 2008](http://www.wiss.org/WISS2008/)
+  - [プロシーディング](http://www.wiss.org/WISS2008Proceedings/)
+- WISS 2007は長崎県のハウステンボスで開催しました。
+  - [WISS 2007](http://www.wiss.org/WISS2007/)
+  - [プロシーディング](http://www.wiss.org/WISS2007Proceedings/)
+- WISS 2006は岩手県で開催しました。
+  - [WISS 2006](http://www.wiss.org/WISS2006/)
+  - [プロシーディング](http://www.wiss.org/WISS2006Proceedings/)
+  - [現地情報](http://www.dais.soft.iwate-pu.ac.jp/WISS2006/)
+- WISS 2005は香川県小豆島で開催しました。
+  - [WISS 2005](http://www.wiss.org/WISS2005/)
+  - [プロシーディング](http://www.wiss.org/WISS2005Proceedings/)
+  - [現地情報](http://www.eng.kagawa-u.ac.jp/~tarumi/wiss2005/)
+  - [プログラム](http://www.wiss.org/WISS2005/program.html)
+  - [各賞の発表](http://www.wiss.org/WISS2005/prize2005.html)
+  - [投票詳細](http://www.wiss.org/WISS2005/prize2005.html#vote)
+- WISS 2004は2004年12月1日から3日まで愛知県額田郡で開催しました。
+  - [WISS Challenge](http://www.wiss.org/WISS2004/wiss-challenge.html)
+  - [WISS 2004](http://www.wiss.org/WISS2004/)
+  - [プログラム](WISS2004/program.html)
+  - [各賞の発表](http://www.wiss.org/WISS2004/awards.html)
+  - [投票詳細](http://www.wiss.org/WISS2004/vote.html)
+- WISS 2003は石川県羽咋で行われました。
+  - [WISS2003 デモセッション](WISS2003/DemoCFP.html) 一般募集を行いました。
+  - [OUISS!](http://www.zdnet.co.jp/news/0212/17/nj00_wiss_03okura.html) を開催しました。
+  - [WISS2003](WISS2003/wiss2003cfp.html) (2003年12月3日(水)-5日(金))
+  - [参加募集（参考）](http://www.wiss.org/cgi-bin/reg2003.cgi)
+  - [石川県のいこいの村能登半島](http://www.jeims.co.jp/ikoinomura/)への[アクセス方法など](WISS2003/access.html)
+  - [プログラムはこちら](WISS2003/program.html)
+  - [WISS2003の論文募集](WISS2003/wiss2003cfp.html)は8/1に公開され、8/29に締切りました。
+  - [WISS 2003 各賞 結果発表](http://www.wiss.org/WISS2003/awards.html)
+- WISS 2002は函館で開催しました。
+  - [WISS 2002](WISS2002/index.html)は12/4(水)〜12/6(金)に[グリーンピア大沼](http://www.green-pia.com/onuma/) (北海道大沼国定公園内)で開催されました。100名を超えるご参加ありがとうございました。
+  - [WISS2002レポート](http://www.itmedia.co.jp/news/0212/17/fj00_wiss2002.html) by [美崎薫](http://homepage3.nifty.com/misaki_kaoru/)
+  - [WISS 2002 各賞 結果発表](http://www.wiss.org/WISS2002/awards.html)
+  - [WISS2002発表論文](WISS2002/program.html)
+- WISS 2001
+  - [プログラム](http://www.wiss.org/WISS2001/program.html)
+  - [WISS2001レポート](http://pcweb.mycom.co.jp/news/special/2001/12/12/01.html) by [美崎薫](http://homepage3.nifty.com/misaki_kaoru/)
+- WISS 2000
+  - [プログラム](http://www.wiss.org/WISS2000/program.html)
+  - [プロシーディング](http://www.kindaikagaku.co.jp/information/kd0285.htm)
+- WISS '99
+  - [プログラム](http://www.wiss.org/WISS99/program.html)
+  - [プロシーディング](http://www.kindaikagaku.co.jp/information/kd0279.htm)
+  - [WISS'99 チャットログ](http://www.csl.sony.co.jp/project/wiss99/)
+- WISS '98
+  - [プログラム](http://www.wiss.org/WISS98/program.html)
+  - [プロシーディング](http://www.kindaikagaku.co.jp/information/kd0271.htm)
+- WISS '97
+  - [プログラム](http://www.wiss.org/WISS97/program.html)
+  - [プロシーディング](http://www.kindaikagaku.co.jp/information/kd0263.htm)
+  - [WISS'97会場とチャット風景](http://www.csl.sony.co.jp/person/rekimoto/wiss97/)
+- WISS '96
+  - [プログラム](http://www.wiss.org/WISS96/participation.html#program)
+  - [プロシーディング](http://www.kindaikagaku.co.jp/information/kd0258.htm)
+  - [新聞報道1](WISS96/article1.html)
+  - [新聞報道2](WISS96/article2.html)
+- WISS '95
+  - [プログラム](http://www.wiss.org/WISS95papers.html)
+  - [プロシーディング](http://www.kindaikagaku.co.jp/information/kd0250.htm)
+- WISS '94
+  - [プログラム](http://www.wiss.org/WISS94papers.html)
+  - [プロシーディング](http://www.kindaikagaku.co.jp/information/kd0231.htm)
+- WISS '93
+  - [プロシーディング](http://www.kindaikagaku.co.jp/information/kd0226.htm)
