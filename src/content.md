@@ -6,7 +6,7 @@ ISS研究会では1993年より毎年冬にワークショップ（WISS）を開
 
 #### News
 - WISS 2025は2025年12月3日（水）-12月5日（金）に定山渓（北海道）で開催予定です。
-  - [WISS 2024](https://www.wiss.org/WISS2025/)
+  - [WISS 2025](https://www.wiss.org/WISS2025/)
 
 #### Archives
 - WISS 2024は2024年12月11日（水）-12月13日（金）に苗場（新潟）で開催されました。
@@ -46,9 +46,8 @@ ISS研究会では1993年より毎年冬にワークショップ（WISS）を開
   - [WISS 2015](https://www.wiss.org/WISS2015/)
   - [WISS 2015 プロシーディングス](https://www.wiss.org/WISS2015Proceedings/)
 - WISS 2014は浜名湖ロイヤルホテル（静岡県浜松市）にて2014/11/26-28に開催されました。
-- [WISS 2014](https://www.wiss.org/WISS2014/)
+  - [WISS 2014](https://www.wiss.org/WISS2014/)
   - [WISS 2014 プロシーディングス](https://www.wiss.org/WISS2014Proceedings/)
-
 - WISS 2013はザ クラウンパレス新阪急高知で12/4-6に開催しました。
   - [WISS 2013](http://www.wiss.org/WISS2013/)
   - [プロシーディング](http://www.wiss.org/WISS2013Proceedings/)
@@ -84,25 +83,24 @@ ISS研究会では1993年より毎年冬にワークショップ（WISS）を開
   - [各賞の発表](http://www.wiss.org/WISS2005/prize2005.html)
   - [投票詳細](http://www.wiss.org/WISS2005/prize2005.html#vote)
 - WISS 2004は2004年12月1日から3日まで愛知県額田郡で開催しました。
-  - [WISS Challenge](http://www.wiss.org/WISS2004/wiss-challenge.html)
+  - [WISS Challenge](http://www.wiss.org/WISS2004/wiss-challenge.html)の企画を設けました。
   - [WISS 2004](http://www.wiss.org/WISS2004/)
   - [プログラム](WISS2004/program.html)
   - [各賞の発表](http://www.wiss.org/WISS2004/awards.html)
   - [投票詳細](http://www.wiss.org/WISS2004/vote.html)
 - WISS 2003は石川県羽咋で行われました。
-  - [WISS2003 デモセッション](WISS2003/DemoCFP.html) 一般募集を行いました。
-  - [OUISS!](http://www.zdnet.co.jp/news/0212/17/nj00_wiss_03okura.html) を開催しました。
-  - [WISS2003](WISS2003/wiss2003cfp.html) (2003年12月3日(水)-5日(金))
-  - [参加募集（参考）](http://www.wiss.org/cgi-bin/reg2003.cgi)
-  - [石川県のいこいの村能登半島](http://www.jeims.co.jp/ikoinomura/)への[アクセス方法など](WISS2003/access.html)
-  - [プログラムはこちら](WISS2003/program.html)
-  - [WISS2003の論文募集](WISS2003/wiss2003cfp.html)は8/1に公開され、8/29に締切りました。
-  - [WISS 2003 各賞 結果発表](http://www.wiss.org/WISS2003/awards.html)
+  - [WISS 2003 デモセッション](WISS2003/DemoCFP.html)、一般募集を行いました。
+  - 夜の部では[OUISS!](http://www.zdnet.co.jp/news/0212/17/nj00_wiss_03okura.html) を開催しました。
+  - [WISS 2003](http://www.wiss.org/WISS2003/wiss2003cfp.html) 2003年12月3日(水)-5日(金)の開催でした。[参加募集（参考）](http://www.wiss.org/cgi-bin/reg2003.cgi)。
+  - 会場となる[石川県のいこいの村能登半島](http://www.jeims.co.jp/ikoinomura/)への[アクセス方法など](WISS2003/access.html)の情報を掲載しました。
+  - WISS 2003の[プログラムはこちら](WISS2003/program.html)です。
+  - [WISS 2003の論文募集](http://www.wiss.org/WISS2003/wiss2003cfp.html)は8/1に公開され、8/29に締切りました。
+  - WISS 2003 各賞 結果発表は[こちら](http://www.wiss.org/WISS2003/awards.html)
 - WISS 2002は函館で開催しました。
-  - [WISS 2002](WISS2002/index.html)は12/4(水)〜12/6(金)に[グリーンピア大沼](http://www.green-pia.com/onuma/) (北海道大沼国定公園内)で開催されました。100名を超えるご参加ありがとうございました。
-  - [WISS2002レポート](http://www.itmedia.co.jp/news/0212/17/fj00_wiss2002.html) by [美崎薫](http://homepage3.nifty.com/misaki_kaoru/)
-  - [WISS 2002 各賞 結果発表](http://www.wiss.org/WISS2002/awards.html)
-  - [WISS2002発表論文](WISS2002/program.html)
+  - [WISS 2002](http://www.wiss.org/WISS2002/index.html)は12/4(水)〜12/6(金)に[グリーンピア大沼](http://www.green-pia.com/onuma/) (北海道大沼国定公園内)で開催されました。100名を超えるご参加ありがとうございました。
+  - なお，プレス参加の[美崎薫](http://homepage3.nifty.com/misaki_kaoru/)さんによります[WISS 2002](WISS2002/index.html)のレポートが[ZDNN](http://www.itmedia.co.jp/news/0212/17/fj00_wiss2002.html)よりご覧頂けます。
+  - WISS 2002 各賞 結果発表は[こちら](http://www.wiss.org/WISS2002/awards.html)
+  - [WISS2002発表論文](http://www.wiss.org/WISS2002/program.html)
 - WISS 2001
   - [プログラム](http://www.wiss.org/WISS2001/program.html)
   - [WISS2001レポート](http://pcweb.mycom.co.jp/news/special/2001/12/12/01.html) by [美崎薫](http://homepage3.nifty.com/misaki_kaoru/)
