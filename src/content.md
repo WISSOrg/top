@@ -5,8 +5,10 @@
 ISS研究会では1993年より毎年冬にワークショップ（WISS）を開催しています．
 
 #### News
-- WISS 2025は2025年12月3日（水）-12月5日（金）に定山渓（北海道）で開催予定です。
+- WISS 2025は2025年12月3日（水）-12月5日（金）に定山渓（北海道）で開催中です。
   - [WISS 2025](https://www.wiss.org/WISS2025/)
+  - [WISS 2024 ウェブ予稿集](https://www.wiss.org/WISS2025Proceedings/)
+  - [WISS 2024 電子予稿集](https://www.wiss.org/WISS2025/downloads/proceedings.pdf)
 
 #### Archives
 - WISS 2024は2024年12月11日（水）-12月13日（金）に苗場（新潟）で開催されました。
