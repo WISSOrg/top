@@ -5,7 +5,7 @@
 ISS研究会では1993年より毎年冬にワークショップ（WISS）を開催しています．
 
 #### News
-- WISS 2026は2025年12月9日（水）-12月11日（金）に苗場（新潟）で開催されます。
+- WISS 2026は2025年12月9日（水）-12月11日（金）に苗場（新潟県）で開催されます。
   <!-- - [WISS 2026](https://www.wiss.org/WISS2026/) -->
 
 #### Archives
@@ -13,19 +13,19 @@ ISS研究会では1993年より毎年冬にワークショップ（WISS）を開
   - [WISS 2025](https://www.wiss.org/WISS2025/)
   - [WISS 2025 ウェブ予稿集](https://www.wiss.org/WISS2025Proceedings/)
   - [WISS 2025 電子予稿集](https://www.wiss.org/WISS2025/downloads/proceedings.pdf)
-- WISS 2024は2024年12月11日（水）-12月13日（金）に苗場（新潟）で開催されました。
+- WISS 2024は2024年12月11日（水）-12月13日（金）に苗場（新潟県）で開催されました。
   - [WISS 2024](https://www.wiss.org/WISS2024/)
   - [WISS 2024 ウェブ予稿集](https://www.wiss.org/WISS2024Proceedings/)
   - [WISS 2024 電子予稿集](https://www.wiss.org/WISS2024/downloads/proceedings.pdf)
-- WISS 2023は2023年11月29日（水）-12月01日（金）に八ヶ岳（山梨）で開催されました。
+- WISS 2023は2023年11月29日（水）-12月01日（金）に八ヶ岳（山梨県）で開催されました。
   - [WISS 2023](https://www.wiss.org/WISS2023/)
   - [WISS 2023 ウェブ予稿集](https://www.wiss.org/WISS2023Proceedings/)
   - [WISS 2023 電子予稿集](https://www.wiss.org/WISS2023/downloads/proceedings.pdf)
-- WISS 2022は2022年12月14日（水）-16日（金）に蔵王（宮城）で開催されました。
+- WISS 2022は2022年12月14日（水）-16日（金）に蔵王（宮城県）で開催されました。
   - [WISS 2022](https://www.wiss.org/WISS2022/)
   - [WISS 2022 ウェブ予稿集](https://www.wiss.org/WISS2022Proceedings/)
   - [WISS 2022 電子予稿集](https://www.wiss.org/WISS2022/downloads/proceedings.pdf)  
-- WISS 2021は2021年12月8日（水）-10日（金）に浜松（静岡）で開催されました。
+- WISS 2021は2021年12月8日（水）-10日（金）に浜松（静岡県）で開催されました。
   - [WISS 2021](https://www.wiss.org/WISS2021/)
   - [WISS 2021 ウェブ予稿集](https://www.wiss.org/WISS2021Proceedings/)
   - [WISS 2021 電子予稿集](https://www.wiss.org/WISS2021/downloads/proceedings.pdf)  
@@ -46,53 +46,53 @@ ISS研究会では1993年より毎年冬にワークショップ（WISS）を開
 - WISS 2016は長浜（滋賀県）にて2016/12/14-16に開催されました。
   - [WISS 2016](https://www.wiss.org/WISS2016/)
   - [WISS 2016 プロシーディングス](https://www.wiss.org/WISS2016Proceedings/)
-- WISS 2015は別府湾ロイヤルホテル（大分県速見郡日出町）にて2015/12/2-4に開催されました。
+- WISS 2015は別府湾ロイヤルホテル（大分県）にて2015/12/2-4に開催されました。
   - [WISS 2015](https://www.wiss.org/WISS2015/)
   - [WISS 2015 プロシーディングス](https://www.wiss.org/WISS2015Proceedings/)
-- WISS 2014は浜名湖ロイヤルホテル（静岡県浜松市）にて2014/11/26-28に開催されました。
+- WISS 2014は浜名湖ロイヤルホテル（静岡県）にて2014/11/26-28に開催されました。
   - [WISS 2014](https://www.wiss.org/WISS2014/)
   - [WISS 2014 プロシーディングス](https://www.wiss.org/WISS2014Proceedings/)
-- WISS 2013はザ クラウンパレス新阪急高知で12/4-6に開催しました。
+- WISS 2013はザ クラウンパレス新阪急高知（高知県）で2013/12/4-6に開催されました。
   - [WISS 2013](http://www.wiss.org/WISS2013/)
   - [プロシーディング](http://www.wiss.org/WISS2013Proceedings/)
-- ISS 20周年記念イベント WISS Tokyo は東京大学で 9/10 に開催しました。
+- ISS 20周年記念イベント WISS Tokyo は東京大学（東京都）で 9/10 に開催しました。
   - [WISS Tokyo](http://www.wiss.org/wisstokyo/)
-- WISS 2012は古牧温泉 青森屋で12/6-8に開催しました。
+- WISS 2012は古牧温泉 青森屋（青森県）で2012/12/6-8に開催しました。
   - [WISS 2012](http://www.wiss.org/WISS2012/)
   - [プロシーディング](http://www.wiss.org/WISS2012Proceedings/)
-- WISS 2011は天橋立・宮津ロイヤルホテルで開催しました。
+- WISS 2011は天橋立・宮津ロイヤルホテル（京都府）で開催しました。
   - [WISS 2011](http://www.wiss.org/WISS2011/)
   - [プロシーディング](http://www.wiss.org/WISS2011Proceedings/)
-- WISS 2010は裏磐梯ロイヤルホテルで開催しました。
+- WISS 2010は裏磐梯ロイヤルホテル（福島県）で開催しました。
   - [WISS 2010](http://www.wiss.org/WISS2010/)
   - [プロシーディング](http://www.wiss.org/WISS2010Proceedings/)
-- WISS 2009は熱海温泉・ホテル大野屋で開催しました。
+- WISS 2009は熱海温泉・ホテル大野屋（静岡県）で開催しました。
   - [WISS 2009](http://www.wiss.org/WISS2009/)
   - [プロシーディング](http://www.wiss.org/WISS2009Proceedings/)
-- WISS 2008は神戸ポートピアホテルで開催しました。
+- WISS 2008は神戸ポートピアホテル（兵庫県）で開催しました。
   - [WISS 2008](http://www.wiss.org/WISS2008/)
   - [プロシーディング](http://www.wiss.org/WISS2008Proceedings/)
-- WISS 2007は長崎県のハウステンボスで開催しました。
+- WISS 2007はハウステンボス（長崎県）で開催しました。
   - [WISS 2007](http://www.wiss.org/WISS2007/)
   - [プロシーディング](http://www.wiss.org/WISS2007Proceedings/)
-- WISS 2006は岩手県で開催しました。
+- WISS 2006は盛岡（岩手県）で開催しました。
   - [WISS 2006](http://www.wiss.org/WISS2006/)
   - [プロシーディング](http://www.wiss.org/WISS2006Proceedings/)
   - [現地情報](http://www.dais.soft.iwate-pu.ac.jp/WISS2006/)
-- WISS 2005は香川県小豆島で開催しました。
+- WISS 2005は小豆島（香川県）で開催しました。
   - [WISS 2005](http://www.wiss.org/WISS2005/)
   - [プロシーディング](http://www.wiss.org/WISS2005Proceedings/)
   - [現地情報](http://www.eng.kagawa-u.ac.jp/~tarumi/wiss2005/)
   - [プログラム](http://www.wiss.org/WISS2005/program.html)
   - [各賞の発表](http://www.wiss.org/WISS2005/prize2005.html)
   - [投票詳細](http://www.wiss.org/WISS2005/prize2005.html#vote)
-- WISS 2004は2004年12月1日から3日まで愛知県額田郡で開催しました。
+- WISS 2004は額田郡（愛知県）で開催しました。
   - [WISS Challenge](http://www.wiss.org/WISS2004/wiss-challenge.html)の企画を設けました。
   - [WISS 2004](http://www.wiss.org/WISS2004/)
   - [プログラム](WISS2004/program.html)
   - [各賞の発表](http://www.wiss.org/WISS2004/awards.html)
   - [投票詳細](http://www.wiss.org/WISS2004/vote.html)
-- WISS 2003は石川県羽咋で行われました。
+- WISS 2003は羽咋（石川県）で開催しました。
   - [WISS 2003 デモセッション](WISS2003/DemoCFP.html)、一般募集を行いました。
   - 夜の部では[OUISS!](http://www.zdnet.co.jp/news/0212/17/nj00_wiss_03okura.html) を開催しました。
   - [WISS 2003](http://www.wiss.org/WISS2003/wiss2003cfp.html) 2003年12月3日(水)-5日(金)の開催でした。[参加募集（参考）](http://www.wiss.org/cgi-bin/reg2003.cgi)。
@@ -100,38 +100,38 @@ ISS研究会では1993年より毎年冬にワークショップ（WISS）を開
   - WISS 2003の[プログラムはこちら](WISS2003/program.html)です。
   - [WISS 2003の論文募集](http://www.wiss.org/WISS2003/wiss2003cfp.html)は8/1に公開され、8/29に締切りました。
   - WISS 2003 各賞 結果発表は[こちら](http://www.wiss.org/WISS2003/awards.html)
-- WISS 2002は函館で開催しました。
+- WISS 2002はグリーンピア大沼（北海道）で開催されました。
   - [WISS 2002](http://www.wiss.org/WISS2002/index.html)は12/4(水)〜12/6(金)に[グリーンピア大沼](http://www.green-pia.com/onuma/) (北海道大沼国定公園内)で開催されました。100名を超えるご参加ありがとうございました。
   - なお，プレス参加の[美崎薫](http://homepage3.nifty.com/misaki_kaoru/)さんによります[WISS 2002](WISS2002/index.html)のレポートが[ZDNN](http://www.itmedia.co.jp/news/0212/17/fj00_wiss2002.html)よりご覧頂けます。
   - WISS 2002 各賞 結果発表は[こちら](http://www.wiss.org/WISS2002/awards.html)
   - [WISS2002発表論文](http://www.wiss.org/WISS2002/program.html)
-- WISS 2001
+- WISS 2001は熱海（静岡県）で開催しました。
   - [プログラム](http://www.wiss.org/WISS2001/program.html)
   - [WISS2001レポート](http://pcweb.mycom.co.jp/news/special/2001/12/12/01.html) by [美崎薫](http://homepage3.nifty.com/misaki_kaoru/)
-- WISS 2000
+- WISS 2000は熱海（静岡県）で開催しました。
   - [プログラム](http://www.wiss.org/WISS2000/program.html)
   - [プロシーディング](http://www.kindaikagaku.co.jp/information/kd0285.htm)
-- WISS '99
+- WISS '99は熱海（静岡県）で開催しました。
   - [プログラム](http://www.wiss.org/WISS99/program.html)
   - [プロシーディング](http://www.kindaikagaku.co.jp/information/kd0279.htm)
   - [WISS'99 チャットログ](http://www.csl.sony.co.jp/project/wiss99/)
-- WISS '98
+- WISS '98は熱海（静岡県）で開催しました。
   - [プログラム](http://www.wiss.org/WISS98/program.html)
   - [プロシーディング](http://www.kindaikagaku.co.jp/information/kd0271.htm)
-- WISS '97
+- WISS '97は熱海（静岡県）で開催しました。
   - [プログラム](http://www.wiss.org/WISS97/program.html)
   - [プロシーディング](http://www.kindaikagaku.co.jp/information/kd0263.htm)
   - [WISS'97会場とチャット風景](http://www.csl.sony.co.jp/person/rekimoto/wiss97/)
-- WISS '96
+- WISS '96は熱海（静岡県）で開催しました。
   - [プログラム](http://www.wiss.org/WISS96/participation.html#program)
   - [プロシーディング](http://www.kindaikagaku.co.jp/information/kd0258.htm)
   - [新聞報道1](WISS96/article1.html)
   - [新聞報道2](WISS96/article2.html)
-- WISS '95
+- WISS '95は熱海（静岡県）で開催しました。
   - [プログラム](http://www.wiss.org/WISS95papers.html)
   - [プロシーディング](http://www.kindaikagaku.co.jp/information/kd0250.htm)
-- WISS '94
+- WISS '94は熱海（静岡県）で開催しました。
   - [プログラム](http://www.wiss.org/WISS94papers.html)
   - [プロシーディング](http://www.kindaikagaku.co.jp/information/kd0231.htm)
-- WISS '93
+- WISS '93は熱海（静岡県）で開催しました。
   - [プロシーディング](http://www.kindaikagaku.co.jp/information/kd0226.htm)
