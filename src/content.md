@@ -105,33 +105,33 @@ ISS研究会では1993年より毎年冬にワークショップ（WISS）を開
   - なお，プレス参加の[美崎薫](http://homepage3.nifty.com/misaki_kaoru/)さんによります[WISS 2002](WISS2002/index.html)のレポートが[ZDNN](http://www.itmedia.co.jp/news/0212/17/fj00_wiss2002.html)よりご覧頂けます。
   - WISS 2002 各賞 結果発表は[こちら](http://www.wiss.org/WISS2002/awards.html)
   - [WISS2002発表論文](http://www.wiss.org/WISS2002/program.html)
-- WISS 2001は熱海（静岡県）で開催しました。
+- WISS 2001は淡路島（兵庫県）で開催しました。
   - [プログラム](http://www.wiss.org/WISS2001/program.html)
   - [WISS2001レポート](http://pcweb.mycom.co.jp/news/special/2001/12/12/01.html) by [美崎薫](http://homepage3.nifty.com/misaki_kaoru/)
-- WISS 2000は熱海（静岡県）で開催しました。
+- WISS 2000は那覇（沖縄県）で開催しました。
   - [プログラム](http://www.wiss.org/WISS2000/program.html)
   - [プロシーディング](http://www.kindaikagaku.co.jp/information/kd0285.htm)
-- WISS '99は熱海（静岡県）で開催しました。
+- WISS '99はつま恋（静岡県）で開催しました。
   - [プログラム](http://www.wiss.org/WISS99/program.html)
   - [プロシーディング](http://www.kindaikagaku.co.jp/information/kd0279.htm)
   - [WISS'99 チャットログ](http://www.csl.sony.co.jp/project/wiss99/)
-- WISS '98は熱海（静岡県）で開催しました。
+- WISS '98はシーガイア（宮崎県）で開催しました。
   - [プログラム](http://www.wiss.org/WISS98/program.html)
   - [プロシーディング](http://www.kindaikagaku.co.jp/information/kd0271.htm)
-- WISS '97は熱海（静岡県）で開催しました。
+- WISS '97は賢島（三重県）で開催しました。
   - [プログラム](http://www.wiss.org/WISS97/program.html)
   - [プロシーディング](http://www.kindaikagaku.co.jp/information/kd0263.htm)
   - [WISS'97会場とチャット風景](http://www.csl.sony.co.jp/person/rekimoto/wiss97/)
-- WISS '96は熱海（静岡県）で開催しました。
+- WISS '96は池田町（北海道）で開催しました。
   - [プログラム](http://www.wiss.org/WISS96/participation.html#program)
   - [プロシーディング](http://www.kindaikagaku.co.jp/information/kd0258.htm)
   - [新聞報道1](WISS96/article1.html)
   - [新聞報道2](WISS96/article2.html)
-- WISS '95は熱海（静岡県）で開催しました。
+- WISS '95は温井スプリングス（広島県）で開催しました。
   - [プログラム](http://www.wiss.org/WISS95papers.html)
   - [プロシーディング](http://www.kindaikagaku.co.jp/information/kd0250.htm)
-- WISS '94は熱海（静岡県）で開催しました。
+- WISS '94が開催されました。
   - [プログラム](http://www.wiss.org/WISS94papers.html)
   - [プロシーディング](http://www.kindaikagaku.co.jp/information/kd0231.htm)
-- WISS '93は熱海（静岡県）で開催しました。
+- WISS '93は丹波篠山（兵庫県）で開催しました。
   - [プロシーディング](http://www.kindaikagaku.co.jp/information/kd0226.htm)
